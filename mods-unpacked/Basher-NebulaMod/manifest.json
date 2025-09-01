@@ -1,0 +1,24 @@
+{
+	"name": "NebulaMod",
+	"namespace": "Basher",
+	"version_number": "0.1.0",
+	"description": "The Ultimante Windowkill addon",
+	"website_url": "https://github.com/example/repo",
+	"dependencies": [
+		"ombrellus-modutils"
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Basher"],
+			"tags": ["tag1", "tag2"],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [
+			],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["4.0.6"],
+			"config_schema": {}
+		}
+	}
+}
